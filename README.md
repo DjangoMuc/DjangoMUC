@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning in school
 - 🤔 I’m looking for help with using GitHub!
 - 😄 Pronouns: he, his, him
---> !(https://github.com/user-attachments/assets/a03d227c-d7ab-4d68-b94c-1b9012c00575)
+--> (https://github.com/user-attachments/assets/a03d227c-d7ab-4d68-b94c-1b9012c00575)
